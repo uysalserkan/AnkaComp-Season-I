@@ -8,5 +8,4 @@ Personal Examples & Quizes & Home Works >> Ankara University Computer Engineerin
 <h4><a href="Vowels counter.c">Vowels counter.c</h4></a><i> This program counters vowels in the statemes, which is given by user, and write the histogram.</i></br>
 <h4>Recursive function 1-2.c</h4><i> These program are example for the recursion.</i></br>
 <h4><a href="guess number.c">Guess Number</h4></a><i> This game gives the 5 chance for you may guess the number, which is guessed by computer.</i></br>
-<hr>'Time: 28.11.2018 Adding'</br>
 <h4><a href="R3C5 Searching Array.c">R3C5 Searching Array.c</h4></a><i> This program gets 15 input from the array and search minimum and maximum value.</i>
