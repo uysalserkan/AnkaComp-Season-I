@@ -11,7 +11,7 @@
 | <a href="guess number.c">Guess Number</a>  | This game gives the 5 chance for you may guess the number, which is guessed by computer  |
 | <a href="R3C5 Searching Array.c">R3C5 Searching Array.c</a>  | This program gets 15 input from the array and search minimum and maximum value  |
 | <a href="unsorted and search values.c">unsorted and search values.c</a>  | This program takes 10 + 1 integer values and search in the position (not index) in the values, which is sorted by the functions  |
-| <a href="binary.c">binary.c<</a>  | This program searching value with binary search algorithm, values are predefined by programmers  |
+| <a href="binary.c">binary.c</a>  | This program searching value with binary search algorithm, values are predefined by programmers  |
 | *X*  | **Y**  |
 | *X*  | **Y**  |
 | *X*  | **Y**  |
