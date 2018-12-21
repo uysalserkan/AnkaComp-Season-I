@@ -17,5 +17,7 @@
 | <a href="StringLenght.c">StringLenght.c</a>  | Calculate the string length with function.  |
 | <a href="Strncpy Imitation.c">Strncpy Imitation.c</a>  | N character will add at last from string1 to string2.   |
 | <a href="Which is lager.c">Which is lager.c</a>  | If the String1 and String2 have equal characters will return 0, if String1 greater than String2 return 1, otherwise -1.  |
+| <a href="Detail Chapter 8 Examples.c">Detail Chapter 8 Examples.c</a>  | This program has some librariy functions to how to use.  |
+| <a href="Sudoku Solver [UnOriginal].c">Sudoku Solver [UnOriginal].c</a>  | Sudoku Solver.  |
 | *X*  | **Y**  |
 | *X*  | **Y**  |
