@@ -12,7 +12,10 @@
 | <a href="R3C5 Searching Array.c">R3C5 Searching Array.c</a>  | This program gets 15 input from the array and search minimum and maximum value  |
 | <a href="unsorted and search values.c">unsorted and search values.c</a>  | This program takes 10 + 1 integer values and search in the position (not index) in the values, which is sorted by the functions  |
 | <a href="binary.c">binary.c</a>  | This program searching value with binary search algorithm, values are predefined by programmers  |
-| *X*  | **Y**  |
-| *X*  | **Y**  |
+| <a href="Concrate two string.c">Concrate two string.c</a>  | This c program concrate string1 with string2.  |
+| <a href="Copy String With Pointer and Array Notation.c">Copy String With Pointer and Array Notation.c</a>  | String 1 will copy String 2 with pointer notation and String 3 with array notation.  |
+| <a href="StringLenght.c">StringLenght.c</a>  | Calculate the string length with function.  |
+| <a href="Strncpy Imitation.c">Strncpy Imitation.c</a>  | N character will add at last from string1 to string2.   |
+| <a href="Which is lager.c">Which is lager.c</a>  | If the String1 and String2 have equal characters will return 0, if String1 greater than String2 return 1, otherwise -1.  |
 | *X*  | **Y**  |
 | *X*  | **Y**  |
